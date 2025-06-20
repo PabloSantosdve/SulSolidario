@@ -7,7 +7,7 @@
 - React
 - Vite
 
-> O projeto é um protótipo funcional, com base em um wireframe que simula a localização de abrigos e centros de apoio.  
+> O projeto é um protótipo funcional, que mostra a localização de abrigos e centros de apoio.  
 
 ## ✨ Objetivo
 
